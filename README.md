@@ -1,10 +1,10 @@
 # Chronometer 
 
-    Chronometer App done with JAVA
+ Chronometer App done with JAVA
 
-**To start this project**
+**To run this project**
 
-* First `cd cv/com/moufid/uteis`  
+* First run  `cd cv/com/moufid/uteis`  in your terminal
 
 * Secondly , run `javac Cronometro.java ` forcompilation
 
